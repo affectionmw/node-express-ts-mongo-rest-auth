@@ -1,0 +1,17 @@
+{
+  "printWidth": 120,
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "semi": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "embeddedLanguageFormatting": "auto",
+  "endOfLine": "lf",
+  "jsxSingleQuote": false,
+  "proseWrap": "preserve",
+  "overrides": [],
+  "cursorOffset": -1,
+  "insertPragma": false,
+  "bracketSpacing": true,
+  "useTabs": true
+}
