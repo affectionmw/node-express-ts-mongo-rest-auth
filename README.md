@@ -26,8 +26,8 @@ Postman-коллекция с предзаполненными данными н
 **User Model:**
 ```json
 { 
-    "username": "string",
-    "email": "string",
+    "username": {},
+    "email": {},
     "authentication": {
         "password":  {},
         "salt": {},
